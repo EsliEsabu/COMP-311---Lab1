@@ -1,3 +1,6 @@
+//Esli Quest Esabu 
+//24019733
+//Question 3
 import java.util.Scanner;
 
 public class Question3 {
